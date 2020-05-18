@@ -4,7 +4,7 @@ Savadarbė vektoriaus klasė, panaši į std::vector.
 
 ## 5 klasės funkcijų pavyzdžiai
 
- * **pop_back** Funkcija, kuri sunaikiną paskutinį konteineryje esantį elementą. Funkcijai nėra duodami parametrai.
+ * **pop_back** Funkcija, kuri sunaikina paskutinį konteineryje esantį elementą. Funkcijai nėra duodami parametrai.
  ```c++
  template<class T>
 void Vector<T>::pop_back()
