@@ -83,11 +83,11 @@ Spartos analizė naudojant duomenų failą su 100000 studentų įrašų, lyginan
 
  |Konteineris|100000|
  |-----------|------|
- |std::vector|11.308874|
- |Vector|12.18247|
+ |std::vector|16.0722|
+ |Vector|17.4575|
  
  ## Išvados
  
  Taigi, ar verta naudoti naujai sukurtą Vector klasę vietoj std::vector?
- **Asakymas - ne**. Vector klasė nėra tokia efektyvi, kaip std::vector, be to, kai kurių funkcijų dar vis trūksta. std::vector yra patikrintas ir tvarkingas standartas, kurį išties yra patogu naudoti, tad geriausia tiesiog pasilikti prie jo.
+ **Asakymas - ne**. Vector klasė nėra tokia efektyvi, kaip std::vector. std::vector yra patikrintas ir tvarkingas standartas, kurį išties yra patogu naudoti, tad geriausia tiesiog pasilikti prie jo.
  
