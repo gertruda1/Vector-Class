@@ -83,8 +83,8 @@ Spartos analizė naudojant duomenų failą su 100000 studentų įrašų, lyginan
 
  |Konteineris|100000|
  |-----------|------|
- |std::vector|16.0722|
- |Vector|17.4575|
+ |std::vector|10.8944|
+ |Vector|11.1402|
  
  ## Išvados
  
